@@ -12,7 +12,6 @@ The repository contains:
   `getting_started.ipynb`](getting_started.ipynb)
 - An overview on the MIPHA framework and the associated platform: [`mipha_overview.md`](mipha_overview.md)
 - The expected specifications of the MIPHA platform: [`specifications.md`](specifications.md)
--
 
 ## How to use
 
