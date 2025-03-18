@@ -1,8 +1,13 @@
 # Mac-specific files
 .DS_Store
 
-# Outputs should not be committed
+# Outputs and data should not be committed
 out/
+
+# data files
+data/*
+!data/.gitkeep
+!data/g1g2_samples.zip
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
